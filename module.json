@@ -1,0 +1,8 @@
+{
+    "name": "FoxyPay",
+    "version": "1.0.0",
+    "description": "FoxyPay payment gateway",
+    "authors": ["Flames"],
+    "providers": ["Flute\\Modules\\FoxyPay\\ServiceProviders\\FoxyPayServiceProvider"],
+    "dependencies": {}
+} 
